@@ -1,7 +1,6 @@
 {
   "name": "node-shell",
   "version": "1.0.0",
-  "description": "",
   "main": "bash.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ysolovyova123/bashproject/issues"
   },
-  "homepage": "https://github.com/ysolovyova123/bashproject#readme"
+  "homepage": "https://github.com/ysolovyova123/bashproject#readme",
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
